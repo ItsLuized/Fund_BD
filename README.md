@@ -11,4 +11,4 @@ Aqui subiré los talleres y actividades realizados en la clase de Fundamentos de
 
 * **Luis Martínez** - [ItsLuized](https://github.com/ItsLuized)
 
-https://github.com/ItsLuized/Fund_BD/blob/master/BD.png
+![alt text](https://github.com/ItsLuized/Fund_BD/blob/master/BD.png)
